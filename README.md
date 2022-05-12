@@ -7,7 +7,7 @@ The models for this project were trained on Google Colab Pro with NVIDIA Tesla K
 
 ## Installation
 - If running the code on Google Colab, you only need to activate the Nvidia GPU. No further installation necessary.
-- Install conda environment using the ee541.yml file
+- Install conda environment using the ee541.txt file
 
 ## Downloading the Dataset
 - Dataset need not be downloaded explicitly. Run the dataset download code snippet in srgan.ipynb to download the datafiles and unzip them. 
